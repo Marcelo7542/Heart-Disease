@@ -1,4 +1,5 @@
 Predição de Doença Cardíaca com Regressão Logística
+
 Sobre o Projeto
 Neste projeto, desenvolvi um modelo de Machine Learning para prever a presença de doença cardíaca utilizando dados clínicos de pacientes do Heart Disease Dataset disponível no Kaggle.
 O modelo foi construído utilizando Regressão Logística combinada com padronização dos dados por meio do StandardScaler.
