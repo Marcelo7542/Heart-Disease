@@ -22,7 +22,8 @@ Geração de Classification Report.
 
 Construção da Matriz de Confusão para análise dos resultados.
 
-Tecnologias Utilizadas
+
+Tecnologias Utilizadas:
 
 Python
 
